@@ -6,10 +6,18 @@ Proyek ini merupakan bagian dari Modul 1 yang berfokus pada pengolahan dan anali
 
 ## Fitur Utama
 
-- **Input Data Siswa**: Pengguna dapat memasukkan data siswa, termasuk nama, nilai, dan mata pelajaran yang diambil.
-- **Penghitungan Rata-rata Nilai**: Program dapat menghitung rata-rata nilai untuk setiap siswa dan mata pelajaran.
-- **Pencarian Nilai Tertinggi dan Terendah**: Program dapat menampilkan nilai tertinggi dan terendah dari seluruh data yang diinput.
-- **Rangkuman Performa Siswa**: Menyajikan rangkuman performa siswa berdasarkan data nilai yang diinputkan, termasuk jumlah mata pelajaran dan nilai rata-rata.
+Aplikasi ini menyediakan berbagai fitur yang dapat diakses melalui menu utama:
+
+1. **Lihat Data Siswa**: Menampilkan data lengkap semua siswa yang telah diinput.
+2. **Tambah Data Siswa**: Memungkinkan pengguna untuk menambahkan data siswa baru.
+3. **Update Data Siswa**: Memungkinkan pengguna untuk memperbarui data siswa yang sudah ada.
+4. **Hapus Data Siswa**: Memungkinkan pengguna untuk menghapus data siswa tertentu.
+5. **Hitung Rata-rata Nilai Per Siswa**: Menghitung rata-rata nilai untuk setiap siswa berdasarkan data yang diinput.
+6. **Peringkat Siswa Berdasarkan Kelas**: Menampilkan peringkat siswa dalam satu kelas berdasarkan nilai.
+7. **Pencarian Siswa Berdasarkan Nilai Tertentu**: Memungkinkan pengguna mencari siswa berdasarkan nilai tertentu.
+8. **Tampilkan Data Rangkuman**: Menyajikan rangkuman performa siswa, termasuk total nilai dan rata-rata.
+9. **Nilai Mata Pelajaran Terbaik dan Terburuk**: Menampilkan mata pelajaran dengan nilai tertinggi dan terendah untuk setiap siswa.
+10. **Keluar**: Keluar dari aplikasi.
 
 ## Instalasi
 
@@ -31,7 +39,7 @@ Untuk menggunakan program ini, ikuti langkah-langkah berikut:
 
 ## Penggunaan
 
-Setelah program dijalankan, Anda dapat mengikuti petunjuk yang ada di terminal untuk memasukkan data siswa, menghitung nilai rata-rata, mencari nilai tertinggi dan terendah, serta melihat rangkuman performa siswa.
+Setelah program dijalankan, Anda dapat mengikuti petunjuk yang ada di terminal untuk menggunakan berbagai fitur yang tersedia dalam menu utama.
 
 ## Struktur Proyek
 
@@ -50,4 +58,4 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi saya melalui [LinkedIn](https://www.linkedin.com/in/rahmahanggita/) atau melalui email: rahmahanggita@gmail.com.
+Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi saya melalui [LinkedIn](https://www.linkedin.com/in/rahmah-anggita-fitri/) atau melalui email: rahmahanggita@gmail.com.
